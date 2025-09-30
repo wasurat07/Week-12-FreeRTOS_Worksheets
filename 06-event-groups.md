@@ -25,7 +25,7 @@
 ### Event Group Architecture:
 
 ```mermaid
-graph TB
+graph LR
     A[Event Group] --> B[Event Bits 0-23]
     B --> C[Bit 0: WiFi Connected]
     B --> D[Bit 1: Sensor Ready]

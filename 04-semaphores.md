@@ -383,7 +383,7 @@ void setup_event_counter(void)
 ### Mutex vs Binary Semaphore:
 
 ```mermaid
-graph TB
+graph LR
     A[Synchronization Need] --> B{Ownership Required?}
     B -->|Yes| C[Use Mutex]
     B -->|No| D[Use Binary Semaphore]

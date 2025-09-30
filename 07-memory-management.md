@@ -25,7 +25,7 @@ Memory management in FreeRTOS involves allocating and deallocating memory for ta
 ### Memory Types in Embedded Systems:
 
 ```mermaid
-graph TB
+graph LR
     A[Memory Types] --> B[RAM]
     A --> C[Flash/ROM]
     A --> D[EEPROM/NVS]
@@ -109,7 +109,7 @@ The ESP32 has a complex memory architecture with different memory regions and ca
 ### ESP32 Memory Layout:
 
 ```mermaid
-graph TB
+graph LR
     A[ESP32 Memory Regions] --> B[Internal SRAM]
     A --> C[External PSRAM]
     A --> D[Flash Memory]

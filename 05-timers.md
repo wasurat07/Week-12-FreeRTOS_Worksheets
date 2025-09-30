@@ -25,7 +25,7 @@
 ### Timer Architecture:
 
 ```mermaid
-graph TB
+graph LR
     A[Timer Service Task] --> B[Timer 1]
     A --> C[Timer 2]
     A --> D[Timer 3]

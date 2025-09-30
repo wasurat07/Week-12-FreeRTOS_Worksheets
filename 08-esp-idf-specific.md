@@ -26,7 +26,7 @@ ESP-IDF includes a customized version of FreeRTOS with ESP32-specific enhancemen
 ### ESP32 Architecture Overview:
 
 ```mermaid
-graph TB
+graph LR
     A[ESP32 Chip] --> B[CPU Core 0 - PRO_CPU]
     A --> C[CPU Core 1 - APP_CPU]
     A --> D[Shared Memory]

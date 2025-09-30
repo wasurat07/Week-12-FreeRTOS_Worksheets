@@ -126,7 +126,7 @@ FreeRTOS uses a priority-based preemptive scheduler. Higher priority tasks preem
 ### Priority Assignment Strategy:
 
 ```mermaid
-graph TB
+graph LR
     A[Priority Assignment] --> B[Time-Critical Tasks]
     A --> C[Communication Tasks]  
     A --> D[Processing Tasks]
@@ -265,7 +265,7 @@ Each task has its own stack for local variables and function calls.
 ### Stack Size Considerations:
 
 ```mermaid
-graph TB
+graph LR
     A[Stack Memory] --> B[Local Variables]
     A --> C[Function Parameters]
     A --> D[Return Addresses]
