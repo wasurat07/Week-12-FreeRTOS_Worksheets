@@ -15,9 +15,9 @@
 
 ### 💻 ปฏิบัติ (2 ชั่วโมง)
 - [practice/](practice/) - โฟลเดอร์สำหรับการปฏิบัติ
-  - Lab 1: Basic Queue Operations
-  - Lab 2: Producer-Consumer System
-  - Lab 3: Queue Sets Implementation
+  - [Lab 1: Basic Queue Operations](practice/lab1-basic-queue/) (45 นาที)
+  - [Lab 2: Producer-Consumer System](practice/lab2-producer-consumer/) (45 นาที)
+  - [Lab 3: Queue Sets Implementation](practice/lab3-queue-sets/) (30 นาที)
 
 ## 🎯 วัตถุประสงค์การเรียนรู้
 

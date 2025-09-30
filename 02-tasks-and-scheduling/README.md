@@ -15,9 +15,9 @@
 
 ### 💻 ปฏิบัติ (2 ชั่วโมง)
 - [practice/](practice/) - โฟลเดอร์สำหรับการปฏิบัติ
-  - Lab 1: Task Priority และ Scheduling
-  - Lab 2: Task States Demonstration
-  - Lab 3: Stack Monitoring และ Debugging
+  - [Lab 1: Task Priority และ Scheduling](practice/lab1-task-priority/) (45 นาที)
+  - [Lab 2: Task States Demonstration](practice/lab2-task-states/) (45 นาที)
+  - [Lab 3: Stack Monitoring และ Debugging](practice/lab3-stack-monitoring/) (30 นาที)
 
 ## 🎯 วัตถุประสงค์การเรียนรู้
 
