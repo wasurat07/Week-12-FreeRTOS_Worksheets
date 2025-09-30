@@ -23,7 +23,7 @@ FreeRTOS is a real-time operating system kernel for embedded devices that has be
 ### FreeRTOS Core Components:
 
 ```mermaid
-graph TB
+graph LR
     A[FreeRTOS Kernel] --> B[Task Management]
     A --> C[Queue Management]
     A --> D[Semaphore & Mutexes]
@@ -177,7 +177,7 @@ stateDiagram-v2
 ### Memory Layout:
 
 ```mermaid
-graph TB
+graph LR
     A[ESP32 Memory] --> B[DRAM]
     A --> C[IRAM]
     A --> D[Flash]
