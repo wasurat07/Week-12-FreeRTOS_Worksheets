@@ -13,8 +13,11 @@
   - Mutexes และ Critical Sections
   - Priority Inheritance และการป้องกัน Priority Inversion
 
-### ��� ปฏิบัติ (2 ชั่วโมง)
+### 💻 ปฏิบัติ (2 ชั่วโมง)
 - [practice/](practice/) - โฟลเดอร์สำหรับการปฏิบัติ
+  - [Lab 1: Binary Semaphores](practice/lab1-binary-semaphores/) (45 นาที)
+  - [Lab 2: Mutex and Critical Sections](practice/lab2-mutex-critical-sections/) (45 นาที)
+  - [Lab 3: Counting Semaphores](practice/lab3-counting-semaphores/) (30 นาที)
 
 ## ��� วัตถุประสงค์การเรียนรู้
 
