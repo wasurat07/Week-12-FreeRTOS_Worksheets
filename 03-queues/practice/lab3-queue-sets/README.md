@@ -25,7 +25,6 @@ graph TB
 
 ### 1. สร้างโปรเจคใหม่
 ```bash
-cd ~/esp
 idf.py create-project queue_sets
 cd queue_sets
 ```

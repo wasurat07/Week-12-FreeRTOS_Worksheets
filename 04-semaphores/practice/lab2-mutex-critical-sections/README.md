@@ -27,7 +27,6 @@ graph TB
 
 ### 1. สร้างโปรเจคใหม่
 ```bash
-cd ~/esp
 idf.py create-project mutex_critical_sections
 cd mutex_critical_sections
 ```

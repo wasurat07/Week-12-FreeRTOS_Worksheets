@@ -25,7 +25,6 @@ graph LR
 
 ### 1. สร้างโปรเจคใหม่
 ```bash
-cd ~/esp
 idf.py create-project basic_queue
 cd basic_queue
 ```

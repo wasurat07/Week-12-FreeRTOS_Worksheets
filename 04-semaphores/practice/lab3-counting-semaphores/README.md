@@ -33,7 +33,6 @@ graph TB
 
 ### 1. สร้างโปรเจคใหม่
 ```bash
-cd ~/esp
 idf.py create-project counting_semaphores
 cd counting_semaphores
 ```

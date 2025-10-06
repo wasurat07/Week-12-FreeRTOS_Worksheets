@@ -39,7 +39,6 @@ CONFIG_FREERTOS_TIMER_QUEUE_LENGTH=10
 
 ### 2. สร้างโปรเจคใหม่
 ```bash
-cd ~/esp
 idf.py create-project software_timers
 cd software_timers
 ```

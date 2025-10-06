@@ -30,7 +30,6 @@ graph LR
 
 ### 1. สร้างโปรเจคใหม่
 ```bash
-cd ~/esp
 idf.py create-project producer_consumer
 cd producer_consumer
 ```
