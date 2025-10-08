@@ -7,13 +7,13 @@
 ## เนื้อหาในหัวข้อ
 
 ###  ทฤษฎี (1 ชั่วโมง)
-- [theory.md](theory.md) - เนื้อหาบรรยายหลัก
+- [theory.md](05-timers.md) - เนื้อหาบรรยายหลัก
 
 ### 💻 ปฏิบัติ (2 ชั่วโมง)
 - [practice/](practice/) - โฟลเดอร์สำหรับการปฏิบัติ
-  - [Lab 1: Basic Software Timers](practice/lab1-basic-timers/) (45 นาที)
-  - [Lab 2: Timer Management System](practice/lab2-timer-management/) (45 นาที)
-  - [Lab 3: Advanced Scheduling](practice/lab3-advanced-scheduling/) (30 นาที)
+  - [Lab 1: Basic Software Timers](practice/lab1-basic-timers/README.md) (45 นาที)
+  - [Lab 2: Timer Applications](practice/lab2-timer-applications/ ) (45 นาที)
+  - [Lab 3: Advanced Timer Management](practice/lab3-advanced-timer-management/) (30 นาที)
 
 ## วัตถุประสงค์การเรียนรู้
 
